@@ -1,0 +1,16 @@
+Borrow a Life là một MVP marketplace cho phép người dùng mượn một lát cắt ngắn, công khai và an toàn trong nhịp sống thật của người khác.
+
+Ứng dụng không bán tour hay lớp học. Nó giúp người dùng trải nghiệm một góc nhìn sống: một software engineer ở Berlin, một farmer, một line cook, một street vendor, hoặc một người đang bắt đầu lại.
+
+Trên Explore, mỗi life window cho biết trải nghiệm này dành cho ai, duration, price và safety score.
+
+Khi mở detail, người dùng thấy host profile, lý do nhịp sống này đáng trải nghiệm, timeline, những gì sẽ trải nghiệm và những điều tuyệt đối không làm.
+
+Điểm khác biệt nằm ở booking flow.
+Trước khi request, AI Safety Engine phân tích thời gian, địa điểm, session mode, public exit point và các rule an toàn.
+Nếu session hợp lệ, hệ thống hiển thị safety score, reasons và Boundary Contract.
+
+Borrow a Life không phải là bước vào đời tư của người khác.
+Nó là một cửa sổ công khai vào nhịp sống của họ.
+Most platforms help you book places.
+Borrow a Life helps you borrow perspective.

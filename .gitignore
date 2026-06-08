@@ -1,0 +1,12 @@
+node_modules
+.svelte-kit
+build
+dist
+target
+.env
+.env.local
+*.log
+*.err
+home-headless.png
+demo/.chrome-record-profile/
+demo/output/

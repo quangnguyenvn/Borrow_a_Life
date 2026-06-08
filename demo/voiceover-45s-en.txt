@@ -1,0 +1,24 @@
+Borrow a Life is an MVP marketplace for borrowing a short, safe, public window into someone else's real life.
+
+It is not a tour app, not a class marketplace, and not a mentor platform.
+The goal is perspective.
+
+People often make life decisions from the outside.
+They imagine what a career, place, or lifestyle might feel like.
+Borrow a Life turns that curiosity into a bounded real-world experience.
+
+Users can explore windows like a Berlin software engineer, a vegetable farmer, a line cook, a street vendor, a startup founder, or someone starting over.
+
+Each listing shows intent, duration, price, tags, and safety score.
+The detail page explains the host, public itinerary, experience, and boundaries.
+
+Before booking, the AI Safety Engine analyzes time, duration, location type, transport risk, public exit access, and itinerary.
+
+If the request is safe, the app shows a safety score and generates a Boundary Contract:
+what is allowed, what is not allowed, and what rules both sides must follow.
+
+Borrow a Life is not about entering someone's private life.
+It is about experiencing the public rhythm of their reality.
+
+Most platforms help you book places.
+Borrow a Life helps you borrow perspective.
