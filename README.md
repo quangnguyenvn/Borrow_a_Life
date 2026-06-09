@@ -57,7 +57,7 @@ The goal is not entertainment alone. The goal is to make ordinary workdays usefu
 
 ## 🌏 Philosophy
 
-The project is inspired by the spirit of **"muôn kiếp nhân sinh"**: every life carries many layers, and every ordinary day may contain a whole world of causes, choices, memories, pressure, kindness, and meaning.
+The project is inspired by the idea that a single human life contains many layers: past choices, hidden pressures, quiet routines, social context, dignity, kindness, and meaning.
 
 From the outside, another person's life can look simple.
 
