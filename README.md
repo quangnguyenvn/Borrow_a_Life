@@ -2,120 +2,105 @@
   <img src="apps/web/static/brand-mark.svg" width="92" alt="Borrow a Life logo" />
 </p>
 
-<h1 align="center">ordinary.help — Borrow a Life</h1>
+<h1 align="center">ordinary.help - Borrow a Life</h1>
 
 <p align="center">
   <strong>Borrow a life. See your own differently.</strong>
 </p>
 
 <p align="center">
-  A hackathon MVP about ordinary lives that help people see their own differently.
+  A hackathon MVP for safe, public windows into ordinary lives that help people see their own differently.
 </p>
 
 ---
 
-## 🌀 The Domain Idea
+## Short Overview
 
-Borrow a Life turns the domain **ordinary.help** into a product.
+Borrow a Life is a perspective marketplace for short, safe, public "Life Windows" into another person's real life.
 
-The domain became the product thesis:
+It is not a tour app, not a class marketplace, not a mentor platform, and not a private-life marketplace. It is a way to spend 2-8 hours inside someone else's public rhythm and return with a deeper view of work, place, and possibility.
+
+The core belief is simple:
 
 > No life is ordinary from the inside.
 
-**ordinary** is the surface: a programmer's commute, a farmer's morning, a cook's prep shift, a vendor's market route, a founder's pressure, or someone quietly starting over.
-
-**help** is the transformation: those lives can help someone test an assumption, make a better decision, or return to their own life with more empathy and perspective.
-
-Most people make big decisions from the outside. They imagine what it might feel like to move to another city, become a software engineer, work on a farm, cook in a restaurant, start a company, or begin again after losing direction.
-
-Borrow a Life lets someone experience a short, bounded, public rhythm of another real life before making assumptions about it.
-
-It is not a tour app.  
-It is not a class marketplace.  
-It is not about entering someone's private life.
-
-It is a perspective marketplace built directly from **ordinary.help**.
+Airbnb helps people find places to stay. Borrow a Life helps people find lives to learn from.
 
 ---
 
-## 🪟 What You Can Borrow
+## The Domain Idea
 
-Users can explore short life windows such as:
+The domain **ordinary.help** became the product thesis.
 
-- 🧑‍💻 A morning as a Berlin software engineer
-- 🌱 A dawn with a vegetable farmer
-- 🍳 A dinner prep window with a line cook
-- 🧺 A morning with a street vendor
-- 🚀 A work window with a startup founder
-- 🌫️ A morning with someone starting over
+**ordinary is the surface. help is the transformation.**
 
-Each experience is designed around a public rhythm: commute, work preparation, market routine, restaurant prep, decision pressure, recovery, or reflection.
+**ordinary** is a programmer's commute, a farmer's morning, a cook's prep shift, a vendor's market route, a founder's pressure, or someone quietly starting over.
 
-The goal is not entertainment alone. The goal is to make ordinary workdays useful, respectful, and surprisingly clarifying.
+**help** is what happens when those ordinary lives help someone test an assumption, make a better decision, or return to their own life with more empathy and perspective.
 
----
+Borrow a Life makes the domain literal:
 
-## 🌏 Philosophy
-
-The project is inspired by the idea that a single human life contains many layers: past choices, hidden pressures, quiet routines, social context, dignity, kindness, and meaning.
-
-From the outside, another person's life can look simple.
-
-From the inside, it has rhythm.
-
-Borrow a Life is built around that feeling. It asks people to slow down, step into a respectful public window, and come back with more empathy for others and more clarity about themselves.
-
-That is the deeper connection to **ordinary.help**: ordinary lives do not need to be made glamorous to be meaningful. They only need to be seen with attention.
+> Ordinary lives can help us understand our own.
 
 ---
 
-## 🛡️ Why Safety Matters
+## What You Can Borrow
 
-Because the product deals with real-world experiences, safety is not a secondary feature. It is part of the concept.
+The MVP includes several Life Windows:
 
-Every session should be:
+- A morning as a Berlin software engineer
+- A dawn with a vegetable farmer
+- A dinner prep window with a line cook
+- A morning with a street vendor
+- A work window with a startup founder
+- A morning with someone starting over
 
-- 👥 Public or semi-public
-- ⏱️ Time bounded
-- 🚪 Easy to exit
-- 📍 Clear about location and itinerary
-- 🤝 Respectful to both guest and host
-- 🔒 Never based on private homes, overnight stays, isolation, romance, or emotional manipulation
-
-The app includes an AI Safety Engine that analyzes risk and generates a Boundary Contract before a booking request can be sent.
+Each Life Window is designed around a real public rhythm: commute, work preparation, market routine, restaurant prep, decision pressure, recovery, or reflection.
 
 ---
 
-## 💡 Why This Could Become Real
+## Product Philosophy
 
-Borrow a Life could help people who are considering:
+Borrow a Life is built around attention, empathy, and practical curiosity.
 
-- Career changes
-- Moving to a new city or country
-- Restaurant, farm, startup, or service work
-- A new lifestyle before committing to it
-- Empathy training for teams, founders, and communities
-- A more human way to explore possible futures
+Many people make major life decisions from the outside. They imagine what a career, city, lifestyle, or second path might feel like, but their picture is often shaped by content, fantasy, or assumptions.
 
-The business is practical because people already pay for tours, coaching, classes, shadowing, and experiences. Borrow a Life combines those behaviors into something more emotional, more useful, and more memorable.
+Borrow a Life gives them a safer and more human alternative:
 
-The creative edge is that it makes **ordinary.help** feel literal:
+> A safe public window into someone else's rhythm.
 
-ordinary lives can help us understand our own.
+The point is not to romanticize another life. The point is to feel its texture honestly: the pace, tradeoffs, pride, fatigue, constraints, dignity, and meaning.
 
 ---
 
-## ✨ Product Experience
+## Why Safety Matters
 
-The current MVP includes:
+Because this project deals with real-world experiences, safety is part of the concept, not an extra feature.
 
-- 🏠 A polished home page with motion previews
-- 🔎 Explore cards for different life windows
-- 📄 Detail pages with host rhythm, tags, price, and intent
-- 🧭 A borrow flow focused on user motivation
-- 🛡️ AI safety analysis
-- 📜 Boundary Contract generation
-- 🎬 Demo videos for several jobs
+Every Life Window should be:
+
+- Public or semi-public
+- Time-bounded
+- Easy to exit
+- Clear about location and itinerary
+- Respectful to both guest and host
+- Never based on private homes, overnight stays, isolation, romance, or emotional manipulation
+
+The MVP includes a **Rust-powered Safety Engine** and an **AI-assisted safety and boundary flow**. Before a request can be sent, the flow reviews the session shape and generates a Boundary Contract that explains what is allowed, what is not allowed, and what both sides must respect.
+
+---
+
+## Product Experience
+
+The MVP includes:
+
+- A polished home page with motion previews
+- Explore cards for different Life Windows
+- Detail pages with host rhythm, tags, price, and intent
+- A borrow flow focused on user motivation
+- Safety analysis
+- Boundary Contract generation
+- Demo videos for several jobs and life windows
 
 The product line is:
 
@@ -123,21 +108,36 @@ The product line is:
 
 ---
 
-## 🧰 Tech, Briefly
+## Demo Video
 
-This MVP is intentionally simple:
+The demo video is part of the storytelling experience. It uses Veo-generated character videos to represent different Life Windows and make the concept feel human, cinematic, and concrete.
 
-- SvelteKit web app
-- TypeScript
-- Tailwind CSS
-- Rust Axum Safety Engine
-- Static demo data and local video assets
+Watch the product demo:
 
-There is no production auth, payment, or database yet. The focus is concept, product polish, safety logic, and storytelling.
+```txt
+https://youtu.be/xFTPspzJJv0
+```
+
+The demo walks through the core experience: home, exploration, listing details, the borrow flow, safety analysis, and the Boundary Contract.
 
 ---
 
-## ▶️ Run Locally
+## Tech Stack
+
+This is a hackathon MVP, intentionally scoped around concept, product polish, safety logic, and storytelling.
+
+- SvelteKit
+- TypeScript
+- Tailwind CSS
+- Rust Axum Safety Engine
+- Static demo data
+- Local video assets
+
+There is no production authentication, payment system, or database yet.
+
+---
+
+## Run Locally
 
 Web app:
 
@@ -174,43 +174,59 @@ PUBLIC_SAFETY_ENGINE_URL=http://localhost:8081
 
 ---
 
-## 🎥 Demo Flow
+## Demo Flow
 
 1. Open the home page.
 2. Watch the Berlin software engineer motion preview.
-3. Explore different life windows.
+3. Explore different Life Windows.
 4. Open a listing detail page.
 5. Start the borrow flow.
-6. Run the AI Safety Engine.
+6. Run the Safety Engine.
 7. Review the Boundary Contract.
 8. Send a safe request.
 
-The demo is designed to show that this is not only a nice interface, but a product with a real-world safety model.
+---
+
+## Why This Could Become Real
+
+Borrow a Life is practical because people already pay for tours, coaching, classes, shadowing, and experiences. This project combines those behaviors into something more emotional, more useful, and more memorable.
+
+It could help people who are considering:
+
+- Career changes
+- Moving to a new city or country
+- Restaurant, farm, startup, or service work
+- A new lifestyle before committing to it
+- Empathy training for teams, founders, and communities
+- A more human way to explore possible futures
+
+The creative edge is that the product makes **ordinary.help** feel real: ordinary days become safe, public windows that help people see their own lives differently.
 
 ---
 
-## 🚀 Next Step
+## What's Next
 
 Borrow a Life is currently an MVP, but I plan to keep developing it into a real startup concept.
 
-The next version would explore:
+Next steps include:
 
 - Verified hosts
-- Real booking flows
-- Stronger AI safety checks
+- Real booking requests
+- Stronger safety checks
 - Identity and trust layers
-- City-by-city launch strategy
-- Community guidelines
 - Payments and refunds
 - Host onboarding
+- City-by-city launch strategy
+
+The long-term goal is to build something practical enough to launch, thoughtful enough to matter, and creative enough to make people see ordinary lives differently.
 
 ---
 
-## 👋 Founder
+## Founder / Builder
 
-Built by **Quang Nguyen**.
+Built by Quang Nguyen.
 
-- Email: [quangnguyen@octech.com.vn](mailto:quangnguyen@octech.com.vn)
-- LinkedIn: [Quang Nguyen](https://www.linkedin.com/in/quang-nguyen-10422718b/)
+I'm building Borrow a Life as both a hackathon MVP and an early startup exploration: practical enough to test, thoughtful enough to matter, and creative enough to make people see ordinary lives differently.
 
-I am exploring how to turn this MVP into a real startup: practical enough to launch, thoughtful enough to matter, and creative enough to make people look at ordinary lives differently.
+Email: [quangnguyen@octech.com.vn](mailto:quangnguyen@octech.com.vn)  
+LinkedIn: [Quang Nguyen](https://www.linkedin.com/in/quang-nguyen-10422718b/)
