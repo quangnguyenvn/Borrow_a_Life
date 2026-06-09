@@ -9,18 +9,22 @@
 </p>
 
 <p align="center">
-  A hackathon MVP about safe, public windows into other people's everyday lives.
+  A hackathon MVP about ordinary lives that help people see their own differently.
 </p>
 
 ---
 
-## 🌀 The Idea
+## 🌀 The Domain Idea
 
 Borrow a Life turns the domain **ordinary.help** into a product.
 
-The simple belief behind it:
+The domain became the product thesis:
 
 > No life is ordinary from the inside.
+
+**ordinary** is the surface: a programmer's commute, a farmer's morning, a cook's prep shift, a vendor's market route, a founder's pressure, or someone quietly starting over.
+
+**help** is the transformation: those lives can help someone test an assumption, make a better decision, or return to their own life with more empathy and perspective.
 
 Most people make big decisions from the outside. They imagine what it might feel like to move to another city, become a software engineer, work on a farm, cook in a restaurant, start a company, or begin again after losing direction.
 
@@ -30,7 +34,7 @@ It is not a tour app.
 It is not a class marketplace.  
 It is not about entering someone's private life.
 
-It is a perspective marketplace.
+It is a perspective marketplace built directly from **ordinary.help**.
 
 ---
 
@@ -47,7 +51,7 @@ Users can explore short life windows such as:
 
 Each experience is designed around a public rhythm: commute, work preparation, market routine, restaurant prep, decision pressure, recovery, or reflection.
 
-The goal is not entertainment alone. The goal is to return with a deeper view of work, place, pressure, dignity, and possibility.
+The goal is not entertainment alone. The goal is to make ordinary workdays useful, respectful, and surprisingly clarifying.
 
 ---
 
@@ -60,6 +64,8 @@ From the outside, another person's life can look simple.
 From the inside, it has rhythm.
 
 Borrow a Life is built around that feeling. It asks people to slow down, step into a respectful public window, and come back with more empathy for others and more clarity about themselves.
+
+That is the deeper connection to **ordinary.help**: ordinary lives do not need to be made glamorous to be meaningful. They only need to be seen with attention.
 
 ---
 

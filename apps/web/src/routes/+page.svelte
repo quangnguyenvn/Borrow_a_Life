@@ -19,11 +19,11 @@
 <section class="section-shell py-12">
   <div class="flex flex-col gap-5 md:flex-row md:items-end md:justify-between">
     <div>
-      <p class="text-sm font-semibold uppercase tracking-[0.2em] text-ember">Life windows in motion</p>
-      <h2 class="mt-3 max-w-3xl text-4xl font-semibold leading-tight text-ink">Four public rhythms, seen from inside.</h2>
+      <p class="text-sm font-semibold uppercase tracking-[0.2em] text-ember">ordinary.help as a product</p>
+      <h2 class="mt-3 max-w-3xl text-4xl font-semibold leading-tight text-ink">Ordinary workdays become useful windows.</h2>
     </div>
     <p class="max-w-md leading-7 text-muted">
-      Short demo windows make the idea feel concrete before someone chooses a life to borrow.
+      A programmer, farmer, cook, or vendor can help someone test a possible future without turning real life into a spectacle.
     </p>
   </div>
 
@@ -37,10 +37,10 @@
 <section class="section-shell py-16">
   <div class="max-w-3xl">
     <p class="text-sm font-semibold uppercase tracking-[0.2em] text-ember">No life is ordinary from the inside.</p>
-    <h2 class="mt-4 text-4xl font-semibold leading-tight text-ink">Borrow a public window into someone else's reality.</h2>
+    <h2 class="mt-4 text-4xl font-semibold leading-tight text-ink">The domain becomes literal: ordinary lives that help.</h2>
     <p class="mt-5 text-lg leading-8 text-muted">
-      Borrow a Life starts with the decision you are exploring, then matches you with the rhythms, constraints, pride,
-      and tradeoffs behind a real public life.
+      Borrow a Life starts with the decision someone is quietly carrying, then matches it to the rhythms, constraints,
+      dignity, and tradeoffs behind a real public life.
     </p>
   </div>
 
@@ -51,10 +51,10 @@
         <h3 class="mt-8 text-2xl font-semibold text-ink">{category}</h3>
         <p class="mt-4 leading-7 text-muted">
           {category === 'Career Futures'
-            ? 'Try the felt reality of a profession before reshaping your future around it.'
+            ? 'Use an ordinary workday to test the emotional texture of a profession before reshaping your future around it.'
             : category === 'Place Rhythms'
-              ? 'Feel how life changes across cities, quiet towns, markets, neighborhoods, and slower public routines.'
-              : 'Meet people who have already crossed the bridge you are considering.'}
+              ? 'Feel how daily life changes across cities, quiet towns, markets, neighborhoods, and slower public routines.'
+              : 'Spend time near people who are rebuilding, redirecting, or choosing a second path with open eyes.'}
         </p>
       </article>
     {/each}
@@ -65,9 +65,9 @@
   <div class="section-shell grid gap-10 lg:grid-cols-[0.82fr_1.18fr]">
     <div>
       <p class="text-sm font-semibold uppercase tracking-[0.2em] text-ember">Safety Engine</p>
-      <h2 class="mt-4 text-4xl font-semibold leading-tight">Safe, public, bounded by design.</h2>
+      <h2 class="mt-4 text-4xl font-semibold leading-tight">Helpful because it stays safe, public, and bounded.</h2>
       <p class="mt-5 leading-8 text-muted">
-        The AI Safety Engine reviews every request before booking, explains the risk in plain language, and turns the session into a clear boundary contract.
+        If ordinary.help is about real people helping each other see differently, trust has to be designed first. The AI Safety Engine reviews every request and turns the session into a clear boundary contract.
       </p>
     </div>
     <div class="grid gap-4 sm:grid-cols-2">

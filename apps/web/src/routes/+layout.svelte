@@ -29,7 +29,7 @@
     <div class="flex flex-col gap-4 border-t border-line pt-6 md:flex-row md:items-center md:justify-between">
       <div>
         <p class="font-semibold text-ink">Borrow a Life is an MVP concept being shaped into a real startup.</p>
-        <p class="mt-1">Public windows into possible futures, created by Quang Nguyen.</p>
+        <p class="mt-1">Built for ordinary.help: ordinary lives that help people see their own differently.</p>
       </div>
       <div class="flex flex-col gap-1 md:items-end">
         <a class="font-semibold text-ember transition hover:text-ink" href="mailto:quangnguyen@octech.com.vn">quangnguyen@octech.com.vn</a>

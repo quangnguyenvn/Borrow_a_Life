@@ -1,11 +1,11 @@
 <section class="section-shell grid min-h-[78vh] items-center gap-12 py-12 lg:grid-cols-[1.05fr_0.95fr] lg:py-20">
   <div>
-    <p class="mb-5 text-sm font-semibold uppercase tracking-[0.22em] text-ember">Every life has a rhythm. Borrow one.</p>
+    <p class="mb-5 text-sm font-semibold uppercase tracking-[0.22em] text-ember">ordinary.help - ordinary lives, unexpected clarity.</p>
     <h1 class="max-w-4xl text-5xl font-semibold leading-[1.02] text-ink sm:text-6xl lg:text-7xl">
       Borrow a life. See your own differently.
     </h1>
     <p class="mt-7 max-w-2xl text-xl leading-8 text-muted">
-      Spend 2-8 hours inside someone else's public rhythm and return with a deeper view of work, place, and possibility.
+      Spend 2-8 hours inside someone else's safe public rhythm and discover how an ordinary day can help you rethink work, place, and possibility.
     </p>
     <div class="mt-9 flex flex-col gap-3 sm:flex-row">
       <a class="focus-ring rounded-full bg-ink px-6 py-4 text-center font-semibold text-white transition hover:bg-ember" href="/explore">
@@ -35,12 +35,12 @@
         <span>09:00-14:00</span>
       </div>
       <div class="space-y-4">
-        <div class="w-fit rounded-full bg-white/[0.14] px-4 py-2 text-sm">Not a tour. Not a class. A life rhythm.</div>
+        <div class="w-fit rounded-full bg-white/[0.14] px-4 py-2 text-sm">Not a tour. Not a class. ordinary.help in motion.</div>
         <div class="border-l border-white/[0.26] bg-transparent p-6 backdrop-blur">
-          <p class="text-sm uppercase tracking-[0.2em] text-white/60">Current match</p>
+          <p class="text-sm uppercase tracking-[0.2em] text-white/60">Public life window</p>
           <h2 class="mt-3 text-3xl font-semibold">Berlin Software Engineer</h2>
           <p class="mt-4 max-w-sm text-white/75">
-            Coffee briefing, commute rhythm, public focus block, and honest reflection on a possible future.
+            Coffee briefing, commute rhythm, public focus block, and an honest look at a life that seems ordinary until you stand inside it.
           </p>
         </div>
       </div>
